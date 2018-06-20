@@ -20,7 +20,7 @@ setup(
 
     packages=['django_file'],
     py_modules=[],
-    install_requires=['django-file-md5'],
+    install_requires=['django-file-md5>=1.0.2'],
 
     classifiers=[
         'Development Status :: 5 - Production/Stable',
