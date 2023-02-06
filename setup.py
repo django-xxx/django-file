@@ -11,7 +11,8 @@ setup(
     version=version,
     keywords='Django File',
     description='Django File Relative',
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
 
     url='https://github.com/django-xxx/django-file',
 
